@@ -1,0 +1,16 @@
+{
+  "name": "week-1-mongodb-fundamentals-assignment-14642ben",
+  "version": "1.0.0",
+  "description": "",
+  "main": "insert_books.js",
+  "scripts": {
+    "start": "node insert_books.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.8.0"
+  }
+}
